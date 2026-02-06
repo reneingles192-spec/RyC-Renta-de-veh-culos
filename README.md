@@ -1,2 +1,2 @@
-# RyC-Renta-de-veh-culos
+# RyC-Renta-de-vehiculos
 Sistema de Renta de vehículos
